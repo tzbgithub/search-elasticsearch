@@ -1,0 +1,5 @@
+1 安装es and 安装es的客户端：Kibana
+2 启动es和Kibana
+3 启动Springboot
+4 登录swagger验证接口
+    http://localhost:8080/swagger-ui.html
